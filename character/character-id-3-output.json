@@ -1,0 +1,12 @@
+{
+  "data": {
+    "character": {
+      "id": "3",
+      "name": "Character Name",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Female"
+    }
+  }
+}
