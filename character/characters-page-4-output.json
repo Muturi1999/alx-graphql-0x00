@@ -1,0 +1,26 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Body Guard Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Bootleg Portal Chemist Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        }
+      ],
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 5,
+        "prev": 3
+      }
+    }
+  }
+}
